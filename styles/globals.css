@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.main {
+  width: 100vw;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
